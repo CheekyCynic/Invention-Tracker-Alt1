@@ -1,9 +1,8 @@
 {
-"appName": "Invention Component Tracker",
-"description": "Tracks all Invention components with rarity, per-hour stats, and CSV export",
-"appUrl": "index.html",
-"defaultWidth": 400,
-"defaultHeight": 520,
-"minWidth": 350,
-"minHeight": 450
+  "appName": "Invention Component Tracker",
+  "description": "Tracks Invention components from Scavenging and Spring Cleaner.",
+  "author": "YourName",
+  "appUrl": "index.html",
+  "version": "1.0",
+  "icon": "https://i.imgur.com/5cH7sNm.png" 
 }
